@@ -1,7 +1,7 @@
-const task1 = require('./soal/task-1');
-const task2 = require('./soal/task-2');
-const task3 = require('./soal/task-3');
-const task4 = require('./soal/task-4');
+const task1 = require('./answer/task-1');
+const task2 = require('./answer/task-2');
+const task3 = require('./answer/task-3');
+const task4 = require('./answer/task-4');
 
 describe('Soal ', () => {
   it('Reverse Word', () => {
